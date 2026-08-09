@@ -1,6 +1,6 @@
 # Karan Swarnakar 
 
-## ECE Student • Developer • Problem Solver
+ECE Student • Developer • Problem Solver
 
 I’m an Electronics & Communication Engineering student interested in building things at the intersection of software, electronics, and artificial intelligence.
 
