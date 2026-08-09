@@ -5,7 +5,7 @@ ECE Student • Developer • Problem Solver
 I’m an Electronics & Communication Engineering student interested in building things at the intersection of software, electronics, and artificial intelligence.
 
 I enjoy turning ideas into projects, learning how things work under the hood, and solving problems through code.
----
+
 ## 🚀 What I’m Working On
 
 * 🔐 Encrypted Bluetooth Chat — building a peer-to-peer messaging application using Bluetooth and encryption.
