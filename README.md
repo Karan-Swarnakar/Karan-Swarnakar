@@ -1,5 +1,5 @@
 ## Karan Swarnakar 
----
+
 # ECE Student • Developer • Problem Solver
 
 I’m an Electronics & Communication Engineering student interested in building things at the intersection of software, electronics, and artificial intelligence.
@@ -16,6 +16,7 @@ I enjoy turning ideas into projects, learning how things work under the hood, an
 
 ## 🤝 Let’s Connect
 [LinkedIn](https://www.linkedin.com/in/karan-swarnakar-105438399/)
+
 [X](https://x.com/Karnallll)
 I’m always interested in interesting projects, challenging problems, and people who enjoy building things.
 
