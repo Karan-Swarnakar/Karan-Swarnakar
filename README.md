@@ -6,7 +6,7 @@ I’m an Electronics & Communication Engineering student interested in building 
 
 I enjoy turning ideas into projects, learning how things work under the hood, and solving problems through code.
 ---
-##🚀 What I’m Working On
+## 🚀 What I’m Working On
 
 * 🔐 Encrypted Bluetooth Chat — building a peer-to-peer messaging application using Bluetooth and encryption.
 * ♟️ Chess Engine — developing a chess engine from scratch to understand board representation, move generation, search, and evaluation.
@@ -14,7 +14,7 @@ I enjoy turning ideas into projects, learning how things work under the hood, an
 
 
 
-##🤝 Let’s Connect
+## 🤝 Let’s Connect
 [LinkedIn](https://www.linkedin.com/in/karan-swarnakar-105438399/)
 [X](https://x.com/Karnallll)
 I’m always interested in interesting projects, challenging problems, and people who enjoy building things.
