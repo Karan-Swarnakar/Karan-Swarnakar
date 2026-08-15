@@ -7,7 +7,7 @@ I’m an Electronics & Communication Engineering student interested in building 
 I enjoy turning ideas into projects, learning how things work under the hood, and solving problems through code.
 
 ## 🚀 What I’m Working On
-
+* 📰 ArgonNews: An AI-powered intelligence aggregator that monitors the web for significant AI news, research, and industry developments, analyzes their importance, and distills them into concise daily intelligence briefings.
 * 🔐 Encrypted Bluetooth Chat — building a peer-to-peer messaging application using Bluetooth and encryption.
 * ♟️ Chess Engine — developing a chess engine from scratch to understand board representation, move generation, search, and evaluation.
 * 🔌 Arduino Projects — experimenting with embedded systems, sensors, displays, and hardware-software integration.
